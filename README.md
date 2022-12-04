@@ -2,5 +2,5 @@
  The game consists of 1 level.
  
 GamePlay
-https://user-images.githubusercontent.com/74078533/205471891-c9a7652d-b69f-434e-915c-c8efc36768bc.mp4
 
+![game](https://user-images.githubusercontent.com/74078533/205472297-eb4ae80a-194e-4787-87fd-1be2a2593f42.gif)
