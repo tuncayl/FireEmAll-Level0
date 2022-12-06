@@ -3,4 +3,8 @@
  
 GamePlay
 
-![game](https://user-images.githubusercontent.com/74078533/205472297-eb4ae80a-194e-4787-87fd-1be2a2593f42.gif)
+
+
+https://user-images.githubusercontent.com/74078533/206004152-eda68783-6bd2-4973-8c98-724b2141f051.mp4
+
+
